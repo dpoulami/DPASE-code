@@ -1,7 +1,8 @@
 DPaSE
+paper link: https://eprint.iacr.org/2020/1443.pdf
 
 Overview of Code:
-The code in this repository is a proof of concept implementation of our DPaSE protocol for a password-authenticated encryption service. 
+The code in this repository is a proof of concept implementation of our DPaSE protocol for a password-authenticated encryption service.
 It is run between a client and n servers
 
 Usage:
